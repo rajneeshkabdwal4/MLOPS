@@ -30,7 +30,6 @@ The project uses the **olist_customers_dataset.csv** for customer segmentation. 
 - **ZenML**: MLOps pipeline orchestration
 - **Python**: Core language for development
 - **Scikit-learn**: For machine learning models and metrics
-- **Docker**: (Optional) For containerized deployments
 
 ## Pipeline Steps
 1. **Data Ingestion**: Loads and prepares the dataset.
